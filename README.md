@@ -11,10 +11,11 @@ If the password is correct, the zip file will be extracted, and we print out the
 Here is an example code for a Python program that can bruteforce and crack zip files:
 
 ```
-pkg update && pkg upgrade
-Pkg install python
-git clone https://github.com/Iamunix/Unix-Zip-Cracker.git
-cd Unix-Zip-cracker
+$ pkg update && pkg upgrade
+$ Pkg install python
+$ git clone https://github.com/Iamunix/Unix-Zip-Cracker.git
+$ cd Unix-Zip-cracker
+$ python unixzip.py
 
 ```
 
