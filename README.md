@@ -1,8 +1,6 @@
 <h1 align="center">Unix ZIP v1.0</h1>
 
-# Zip Cracker
-Crack zip files password.
-![](Unix ZIP.png)
+ ![UnixZip Cracker banner](https://github.com/Iamunix/Unix-Zip-Cracker/blob/main/unixzip-cracker.jpg)
 
 # Tested on
 - Kali Linux
