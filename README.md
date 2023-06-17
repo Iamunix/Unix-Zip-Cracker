@@ -3,27 +3,40 @@
  ![UnixZip Cracker banner](https://github.com/Iamunix/Unix-Zip-Cracker/blob/main/unixzip-cracker.jpg)
 
 # Tested on
-- Kali Linux
-- Ubuntu
-- Termux
+- Kal
+Termux 
 
-# Installation
+Kali linux 
 
-* apt install python3
+# Installation on Termux 📱
 
-* apt install git
+$ apt update & & apt upgrade - y
 
-* pkg install pyfiglet
+$ apt install git 
 
-* pkg install resources
+$ apt install python 
 
-* git clone https://github.com/Iamunix/Unix-Zip-Cracker.git
+$ apt install pyfiglet 
 
-* cd Unix-Zip-Cracker
+$ git clone https://github.com/Iamunix/Unix-Zip-Cracker.git
 
-* python3 unixzip.py
+$ cd Unix-Zip-Cracker  
 
+$ python unixzip.py
 
+# Tool instructions 📖
+UnixZip Cracker is based on one option :-
+👉Automatically 
+User will enter the name on of the zip file then enter name of password.txt file Magic will happen 😎🔥
 
-# Warning
-***This tool is only for educational purpose. We are not responsible for any misuse or illegal activities.***
+# Help This project 
+Please i want to say i need more help on this project if you're python developer and programmers help me out to improve this tool am not more skillful on python i think this project it will faced different issues please contribute to the project  
+
+# Bug Report 🐞
+If you find any kind of bug on this project please let me know and those who find bug i will mention them as contributors i don't have money to reward 😄
+
+# Tool Status💡
+On development it may work but not all the time. Please be patient 🙏
+
+# Disclaimer 👮🏿‍♂️
+This Tool is created for educational purposes only  Creator of this will tool will not be considered on your criminal activities  
