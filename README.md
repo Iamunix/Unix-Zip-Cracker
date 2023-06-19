@@ -3,10 +3,9 @@
  ![UnixZip Cracker banner](https://github.com/Iamunix/Unix-Zip-Cracker/blob/main/unixzip-cracker.jpg)
 
 # Tested on
-- Kal
-Termux 
+- Termux 
 
-Kali linux 
+- Kali linux 
 
 # Installation on Termux 📱
 
