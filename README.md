@@ -1,4 +1,14 @@
-<h1 align="center">Unix ZIP v1.0</h1>
+# Unix ZIP v1
+ ![Download Count](https://img.shields.io/github/downloads/Iamunix/Unix-Zip-Cracker/total)
+![Python](https://img.shields.io/badge/python-3-blue)                      
+![GitHub contributors](https://img.shields.io/github/contributors/Iamunix/Unix-Zip-Cracker )
+![Maintenance](https://img.shields.io/maintenance/yes/2023)
+  ![GitHub license](https://img.shields.io/github/license/Iamunix/Unix-Zip-Cracker)
+![GitHub contributors](https://img.shields.io/github/contributors/Iamunix/Unix-Zip-Cracker)  
+ ![GitHub contributors](https://img.shields.io/github/contributors/Iamunix/Unix-Zip-Cracker)
+     ![GitHub stars](https://img.shields.io/github/stars/Iamunix/Unix-Zip-Cracker?style=social)
+[![Telegram Community](https://img.shields.io/badge/Telegram-Community-blue.svg?logo=telegram)](https://t.me/iamunixtzproject)  
+
 
  ![UnixZip Cracker banner](https://github.com/Iamunix/Unix-Zip-Cracker/blob/main/unixzip-cracker.jpg)
 
